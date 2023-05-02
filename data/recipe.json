@@ -1,0 +1,164 @@
+[
+  {
+    "recipeName": "Beef Wellington",
+    "chef": "Gordon Ramsay",
+    "ingredients": [
+      "beef fillet",
+      "puff pastry",
+      "mushrooms",
+      "prosciutto",
+      "egg wash"
+    ],
+    "cookingMethod": "1. Sear beef fillet\n2. Spread mixture of mushrooms and prosciutto on puff pastry\n3. Wrap beef fillet in puff pastry\n4. Brush with egg wash\n5. Bake at 200°C for 20-25 minutes\n6. Rest for 5-10 minutes before serving",
+    "rating": 4.8,
+    "favoriteButton": "https://example.com/gordon_ramsay/beef_wellington/favorite"
+  },
+  {
+    "recipeName": "Roast Chicken",
+    "chef": "Jamie Oliver",
+    "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+    "cookingMethod": "1. Preheat oven to 220°C\n2. Season chicken with salt and pepper\n3. Stuff chicken cavity with lemon, garlic, and thyme\n4. Rub butter all over chicken\n5. Roast in oven for 1 hour 20 minutes\n6. Rest for 10-15 minutes before serving",
+    "rating": 4.6,
+    "favoriteButton": "https://example.com/jamie_oliver/roast_chicken/favorite"
+  },
+  {
+    "recipeName": "Pasta Carbonara",
+    "chef": "Nigella Lawson",
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "eggs",
+      "parmesan",
+      "black pepper"
+    ],
+    "cookingMethod": "1. Cook spaghetti in salted boiling water\n2. Cook pancetta in a pan until crispy\n3. Beat eggs, parmesan, and black pepper together\n4. Drain spaghetti and add to the pancetta pan\n5. Turn off heat and add egg mixture to the pan\n6. Stir until eggs are cooked\n7. Serve immediately",
+    "rating": 4.4,
+    "favoriteButton": "https://example.com/nigella_lawson/pasta_carbonara/favorite"
+  },
+  {
+    "recipeName": "Grilled Steak",
+    "chef": "Bobby Flay",
+    "ingredients": ["ribeye steak", "olive oil", "salt", "pepper", "garlic"],
+    "cookingMethod": "1. Preheat grill to high heat\n2. Brush steak with olive oil\n3. Season steak with salt and pepper\n4. Grill steak for 4-5 minutes per side\n5. Rest for 5-10 minutes before serving\n6. Rub with garlic before serving",
+    "rating": 4.7,
+    "favoriteButton": "https://example.com/bobby_flay/grilled_steak/favorite"
+  },
+  {
+    "recipeName": "Lobster Mac and Cheese",
+    "chef": "Ina Garten",
+    "ingredients": ["elbow macaroni", "lobster", "butter", "flour", "milk"],
+    "cookingMethod": "1. Cook macaroni in salted boiling water\n2. Remove meat from lobster shells and chop\n3. Melt butter in a pan and add flour\n4. Gradually whisk in milk\n5. Stir in macaroni and lobster\n6. Transfer to a baking dish\n7. Top with breadcrumbs and bake at 180°C for 20-25 minutes",
+    "rating": 4.5,
+    "favoriteButton": "https://example.com/ina_garten/lobster_mac_and_cheese/favorite"
+  },
+  {
+    "recipeName": "Shepherd's Pie",
+    "chef": "Gordon Ramsay",
+    "ingredients": ["minced lamb", "onion", "carrots", "peas", "tomato paste"],
+    "cookingMethod": "1. Preheat oven to 200°C\n2. Cook minced lamb in a pan until browned\n3. Add chopped onion, carrots, and peas to the pan\n4. Add tomato paste and cook for 5 minutes\n5. Season with salt and pepper\n6. Transfer mixture to a baking dish\n7. Cover with mashed potatoes\n8. Bake for 20-25 minutes until golden brown",
+    "rating": 4.6,
+    "favoriteButton": "https://example.com/gordon_ramsay/shepherds_pie/favorite"
+  },
+  {
+    "recipeName": "Pan-Seared Salmon",
+    "chef": "Gordon Ramsay",
+    "ingredients": ["salmon fillet", "olive oil", "salt", "pepper", "lemon"],
+    "cookingMethod": "1. Preheat a pan over medium-high heat\n2. Brush salmon fillet with olive oil\n3. Season salmon with salt and pepper\n4. Place salmon in the pan, skin-side down\n5. Cook for 3-4 minutes until crispy\n6. Flip the salmon and cook for an additional 1-2 minutes\n7. Squeeze lemon juice over the salmon before serving",
+    "rating": 4.8,
+    "favoriteButton": "https://example.com/gordon_ramsay/pan_seared_salmon/favorite"
+  },
+  {
+    "recipeName": "Roast Chicken with Lemon and Rosemary",
+    "chef": "Jamie Oliver",
+    "ingredients": [
+      "whole chicken",
+      "lemon",
+      "rosemary",
+      "garlic",
+      "olive oil"
+    ],
+    "cookingMethod": "1. Preheat oven to 200°C\n2. Rub chicken with olive oil\n3. Season chicken with salt and pepper\n4. Stuff chicken with lemon wedges, rosemary, and garlic\n5. Place chicken in a roasting pan and roast for 1 hour\n6. Let the chicken rest for 10 minutes before carving",
+    "rating": 4.5,
+    "favoriteButton": "https://example.com/jamie_oliver/roast_chicken_with_lemon_and_rosemary/favorite"
+  },
+  {
+    "recipeName": "Pasta with Tomato and Basil",
+    "chef": "Jamie Oliver",
+    "ingredients": ["spaghetti", "tomatoes", "garlic", "basil", "olive oil"],
+    "cookingMethod": "1. Cook spaghetti in salted boiling water\n2. Heat olive oil in a pan and add minced garlic\n3. Add chopped tomatoes and cook for 5-7 minutes\n4. Season with salt and pepper\n5. Toss cooked spaghetti with the tomato sauce\n6. Top with chopped basil",
+    "rating": 4.3,
+    "favoriteButton": "https://example.com/jamie_oliver/pasta_with_tomato_and_basil/favorite"
+  },
+  {
+    "recipeName": "Linguine with Clams",
+    "chef": "Nigella Lawson",
+    "ingredients": [
+      "linguine pasta",
+      "clams",
+      "garlic",
+      "white wine",
+      "olive oil"
+    ],
+    "cookingMethod": "1. Cook linguine pasta in salted boiling water\n2. Heat olive oil in a pan and add minced garlic\n3. Add clams and white wine to the pan\n4. Cover and cook until the clams open\n5. Discard any unopened clams\n6. Toss cooked linguine with the clam sauce",
+    "rating": 4.4,
+    "favoriteButton": "https://example.com/nigella_lawson/linguine_with_clams/favorite"
+  },
+  {
+    "recipeName": "Chocolate Brownies",
+    "chef": "Nigella Lawson",
+    "ingredients": ["butter", "dark chocolate", "eggs", "sugar", "flour"],
+    "cookingMethod": "1. Preheat oven to 180°C\n2. Melt butter and dark chocolate in a pan over low heat\n3. Beat eggs and sugar together\n4. Add melted chocolate mixture to the egg mixture\n5. Fold in flour\n6. Pour the mixture into a lined baking pan\n7. Bake for 20-25 minutes",
+    "rating": 4.7,
+    "favoriteButton": "https://example.com/nigella_lawson/chocolate_brownies/favorite"
+  },
+  {
+    "recipeName": "Lemon Roasted Chicken",
+    "chef": "Ina Garten",
+    "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "olive oil"],
+    "cookingMethod": "1. Preheat oven to 190°C\n2. Rub chicken with olive oil\n3. Season chicken with salt, pepper, and thyme\n4. Stuff chicken with lemon wedges and garlic\n5. Place chicken in a roasting pan and roast for 1 hour 15 minutes\n6. Let the chicken rest for 10 minutes before carving",
+    "rating": 4.6,
+    "favoriteButton": "https://example.com/ina_garten/lemon_roasted_chicken/favorite"
+  },
+  {
+    "recipeName": "Butternut Squash Soup",
+    "chef": "Ina Garten",
+    "ingredients": [
+      "butternut squash",
+      "onion",
+      "apple",
+      "chicken stock",
+      "heavy cream"
+    ],
+    "cookingMethod": "1. Preheat oven to 200°C\n2. Cut butternut squash into pieces and roast with olive oil\n3. Sauté onion in a pot with butter\n4. Add diced apple and roasted butternut squash to the pot\n5. Add chicken stock and bring to a boil\n6. Simmer for 20 minutes\n7. Blend the mixture until smooth\n8. Add heavy cream and heat until warm",
+    "rating": 4.2,
+    "favoriteButton": "https://example.com/ina_garten/butternut_squash_soup/favorite"
+  },
+  {
+    "recipeName": "Grilled Steak with Chimichurri Sauce",
+    "chef": "Bobby Flay",
+    "ingredients": [
+      "steak",
+      "parsley",
+      "garlic",
+      "red wine vinegar",
+      "olive oil"
+    ],
+    "cookingMethod": "1. Preheat grill to high heat\n2. Season steak with salt and pepper\n3. Grill steak for 5-7 minutes on each side\n4. Let the steak rest for 5 minutes before slicing\n5. Blend parsley, garlic, red wine vinegar, and olive oil until smooth\n6. Serve steak with chimichurri sauce",
+    "rating": 4.8,
+    "favoriteButton": "https://example.com/bobby_flay/grilled_steak_chimichurri/favorite"
+  },
+  {
+    "recipeName": "Southwest Black Bean Burger",
+    "chef": "Bobby Flay",
+    "ingredients": [
+      "black beans",
+      "corn",
+      "red pepper",
+      "breadcrumbs",
+      "chipotle pepper"
+    ],
+    "cookingMethod": "1. Preheat oven to 190°C\n2. Combine black beans, corn, red pepper, breadcrumbs, and chipotle pepper in a bowl\n3. Mash the mixture with a fork\n4. Form the mixture into patties\n5. Heat a pan over medium heat\n6. Cook the patties for 3-4 minutes on each side\n7. Serve on a bun with your favorite toppings",
+    "rating": 4.5,
+    "favoriteButton": "https://example.com/bobby_flay/southwest_black_bean_burger/favorite"
+  }
+]
