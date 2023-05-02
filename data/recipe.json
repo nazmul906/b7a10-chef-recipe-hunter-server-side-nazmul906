@@ -1,8 +1,10 @@
 [
   {
     "recipeName": "Beef Wellington",
-    "chef": "Gordon Ramsay",
+    "recipeId": "a",
     "chef_id": "1",
+    "chef": "Gordon Ramsay",
+
     "ingredients": [
       "beef fillet",
       "puff pastry",
@@ -16,6 +18,8 @@
   },
   {
     "recipeName": "Roast Chicken",
+    "recipeId": "b",
+    "chef_id": "2",
     "chef": "Jamie Oliver",
     "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
     "cookingMethod": "1. Preheat oven to 220°C\n2. Season chicken with salt and pepper\n3. Stuff chicken cavity with lemon, garlic, and thyme\n4. Rub butter all over chicken\n5. Roast in oven for 1 hour 20 minutes\n6. Rest for 10-15 minutes before serving",
@@ -24,6 +28,7 @@
   },
   {
     "recipeName": "Pasta Carbonara",
+    "chef_id": "3",
     "chef": "Nigella Lawson",
     "ingredients": [
       "spaghetti",
@@ -38,6 +43,7 @@
   },
   {
     "recipeName": "Grilled Steak",
+    "chef_id": "4",
     "chef": "Bobby Flay",
     "ingredients": ["ribeye steak", "olive oil", "salt", "pepper", "garlic"],
     "cookingMethod": "1. Preheat grill to high heat\n2. Brush steak with olive oil\n3. Season steak with salt and pepper\n4. Grill steak for 4-5 minutes per side\n5. Rest for 5-10 minutes before serving\n6. Rub with garlic before serving",
@@ -46,6 +52,7 @@
   },
   {
     "recipeName": "Lobster Mac and Cheese",
+    "chef_id": "5",
     "chef": "Ina Garten",
     "ingredients": ["elbow macaroni", "lobster", "butter", "flour", "milk"],
     "cookingMethod": "1. Cook macaroni in salted boiling water\n2. Remove meat from lobster shells and chop\n3. Melt butter in a pan and add flour\n4. Gradually whisk in milk\n5. Stir in macaroni and lobster\n6. Transfer to a baking dish\n7. Top with breadcrumbs and bake at 180°C for 20-25 minutes",
@@ -54,6 +61,7 @@
   },
   {
     "recipeName": "Shepherd's Pie",
+    "chef_id": "1",
     "chef": "Gordon Ramsay",
     "ingredients": ["minced lamb", "onion", "carrots", "peas", "tomato paste"],
     "cookingMethod": "1. Preheat oven to 200°C\n2. Cook minced lamb in a pan until browned\n3. Add chopped onion, carrots, and peas to the pan\n4. Add tomato paste and cook for 5 minutes\n5. Season with salt and pepper\n6. Transfer mixture to a baking dish\n7. Cover with mashed potatoes\n8. Bake for 20-25 minutes until golden brown",
@@ -62,6 +70,7 @@
   },
   {
     "recipeName": "Pan-Seared Salmon",
+    "chef_id": "1",
     "chef": "Gordon Ramsay",
     "ingredients": ["salmon fillet", "olive oil", "salt", "pepper", "lemon"],
     "cookingMethod": "1. Preheat a pan over medium-high heat\n2. Brush salmon fillet with olive oil\n3. Season salmon with salt and pepper\n4. Place salmon in the pan, skin-side down\n5. Cook for 3-4 minutes until crispy\n6. Flip the salmon and cook for an additional 1-2 minutes\n7. Squeeze lemon juice over the salmon before serving",
@@ -70,7 +79,9 @@
   },
   {
     "recipeName": "Roast Chicken with Lemon and Rosemary",
+    "chef_id": "2",
     "chef": "Jamie Oliver",
+
     "ingredients": [
       "whole chicken",
       "lemon",
@@ -84,6 +95,7 @@
   },
   {
     "recipeName": "Pasta with Tomato and Basil",
+    "chef_id": "2",
     "chef": "Jamie Oliver",
     "ingredients": ["spaghetti", "tomatoes", "garlic", "basil", "olive oil"],
     "cookingMethod": "1. Cook spaghetti in salted boiling water\n2. Heat olive oil in a pan and add minced garlic\n3. Add chopped tomatoes and cook for 5-7 minutes\n4. Season with salt and pepper\n5. Toss cooked spaghetti with the tomato sauce\n6. Top with chopped basil",
@@ -92,6 +104,7 @@
   },
   {
     "recipeName": "Linguine with Clams",
+    "chef_id": "3",
     "chef": "Nigella Lawson",
     "ingredients": [
       "linguine pasta",
@@ -106,6 +119,7 @@
   },
   {
     "recipeName": "Chocolate Brownies",
+    "chef_id": "3",
     "chef": "Nigella Lawson",
     "ingredients": ["butter", "dark chocolate", "eggs", "sugar", "flour"],
     "cookingMethod": "1. Preheat oven to 180°C\n2. Melt butter and dark chocolate in a pan over low heat\n3. Beat eggs and sugar together\n4. Add melted chocolate mixture to the egg mixture\n5. Fold in flour\n6. Pour the mixture into a lined baking pan\n7. Bake for 20-25 minutes",
@@ -114,6 +128,7 @@
   },
   {
     "recipeName": "Lemon Roasted Chicken",
+    "chef_id": "5",
     "chef": "Ina Garten",
     "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "olive oil"],
     "cookingMethod": "1. Preheat oven to 190°C\n2. Rub chicken with olive oil\n3. Season chicken with salt, pepper, and thyme\n4. Stuff chicken with lemon wedges and garlic\n5. Place chicken in a roasting pan and roast for 1 hour 15 minutes\n6. Let the chicken rest for 10 minutes before carving",
@@ -122,6 +137,7 @@
   },
   {
     "recipeName": "Butternut Squash Soup",
+    "chef_id": "5",
     "chef": "Ina Garten",
     "ingredients": [
       "butternut squash",
@@ -136,6 +152,7 @@
   },
   {
     "recipeName": "Grilled Steak with Chimichurri Sauce",
+    "chef_id": "4",
     "chef": "Bobby Flay",
     "ingredients": [
       "steak",
@@ -150,6 +167,7 @@
   },
   {
     "recipeName": "Southwest Black Bean Burger",
+    "chef_id": "4",
     "chef": "Bobby Flay",
     "ingredients": [
       "black beans",

@@ -24,6 +24,19 @@ app.get("/chef", (req, res) => {
   //   console.log(categories);
   res.send(allchef);
 });
+
+app.get("/chef/:id", (req, res) => {
+  const chefId = parseInt(req.params.id);
+  console.log("chefId", chefId);
+  //   as we get the id we will run filter() on recipes to get those recipe od that chefid provided
+
+  const selectedChefRecipe = recipes.filter(
+    (item) => parseInt(item.chef_id) === chefId
+  );
+  //   console.log(selectedChefRecipe);
+  res.send(selectedChefRecipe);
+});
+
 app.get("/viewrecipes", (req, res) => {
   res.send(recipes);
 });
