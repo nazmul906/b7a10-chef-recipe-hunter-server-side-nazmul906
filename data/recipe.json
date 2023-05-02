@@ -2,6 +2,7 @@
   {
     "recipeName": "Beef Wellington",
     "chef": "Gordon Ramsay",
+    "chef_id": "1",
     "ingredients": [
       "beef fillet",
       "puff pastry",
