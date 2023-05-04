@@ -9,7 +9,7 @@ const recipes = require("./data/recipe.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("Welcome to Food World!");
 });
 // app.get("/chef/:id", (req, res) => {
 //   const cid = parseInt(req.params.id);
